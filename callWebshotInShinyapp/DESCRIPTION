@@ -1,0 +1,14 @@
+Package: callWebshotInShinyapp
+Type: Package
+Title: Screen shot a shiny app
+Version: 0.1.0
+Author: Emmanuel Hamel
+Maintainer: <manu.hamel@gmail.com>
+Description: Screen shot a shiny app
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports: shiny,
+         webshot,
+         subprocess
+RoxygenNote: 6.1.1
